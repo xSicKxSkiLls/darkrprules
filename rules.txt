@@ -1,0 +1,30 @@
+- General Rules
+
+* Don't attempt to exploit the server or act with malicious intent towards it.
+* Don't randomly kill someone. (Known as RDM - Random Death Match)
+* Don't harass or annoy other players. This includes being racist or purposefully trying to offend others.
+* Don't spam. This includes voice chat, OOC chat, adverts, or any other methods of communication.
+* Don't prop minge. This includes prop climb, surf, kill, block, bridge, push, trap or spam.
+* Don't create offensive or inappropriate text signs.
+* Don't use an inappropriate RP name.
+* Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish
+* Scamming during vendor transactions or any roleplay transactions is not allowed whatsoever.
+* No CP helping. You must be a government class or a bodyguard hired by the Mayor to assist CP.
+* If a user has a building sign up, leave them alone. If they need help they will ask. You will be KOS after two warnings.
+* Overall, use common sense and have fun.
+
+
+- Building Rules
+
+* While building, put up a sign that says "Building" to let others know you are not roleplaying.
+* Do not interfere with people that have a "Building" sign.
+* A player must be able to enter and exit your building using a keypad cracker or a lockpick.
+* Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly)
+* For fading doors, please stay within 4 doors to get in.
+* Keypads must be connected to a working fading door.
+* Keypads must have a hold length of 5 seconds for fading doors. (With a 0 initial delay)
+* Do not create tiny cracks in your base that raiders cannot see.(Headshot and footshot traps)
+* No disorienting advantages such as black rooms, fully invisible props, or world glow effects.
+* Do not store entities on inaccessible rooftops or inaccessible areas in general.
+* Do not build in the road. Cars must be able to get by.
+* Sky bases are not allowed.
