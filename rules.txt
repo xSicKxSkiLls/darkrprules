@@ -12,6 +12,9 @@
 * No CP helping. You must be a government class or a bodyguard hired by the Mayor to assist CP.
 * If a user has a building sign up, leave them alone. If they need help they will ask. You will be KOS after two warnings.
 * NLR Rule: There isn't one. Make your alliances well. Avenge yourself. Don't let that annoying raider get your stuff.
+* Raiding, must be called in /ooc. We are working on an addon for this system. When Done write, raid over. Cool down of 15 minutes.
+* Mugging, must be called in /ooc. There is no FailRP or FearRP on this.
+* If complaining to admin about a rule that doesn't exist, you will be warned.
 * Overall, use common sense and have fun.
 
 
