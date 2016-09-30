@@ -1,34 +1,34 @@
 - General Rules
 
-* Don't attempt to exploit the server or act with malicious intent towards it.
-* Don't randomly kill someone. (Known as RDM - Random Death Match)
-* Don't harass or annoy other players. This includes being racist or purposefully trying to offend others.
-* Don't spam. This includes voice chat, OOC chat, adverts, or any other methods of communication.
-* Don't prop minge. This includes prop climb, surf, kill, block, bridge, push, trap or spam.
-* Don't create offensive or inappropriate text signs.
-* Don't use an inappropriate RP name.
-* Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish
-* Scamming during vendor transactions or any roleplay transactions is not allowed whatsoever.
-* No CP helping. You must be a government class or a bodyguard hired by the Mayor to assist CP.
-* If a user has a building sign up, leave them alone. If they need help they will ask. You will be KOS after two warnings.
-* NLR Rule: There isn't one. Make your alliances well. Avenge yourself. Don't let that annoying raider get your stuff.
-* Raiding, must be called in /ooc. We are working on an addon for this system. When Done write, raid over. Cool down of 15 minutes.
-* Mugging, must be called in /ooc. There is no FailRP or FearRP on this.
-* If complaining to admin about a rule that doesn't exist, you will be warned.
-* Overall, use common sense and have fun.
+1. Don't attempt to exploit the server or act with malicious intent towards it.
+2. Don't randomly kill someone. (Known as RDM - Random Death Match)
+3. Don't harass or annoy other players. This includes being racist or purposefully trying to offend others.
+4. Don't spam. This includes voice chat, OOC chat, adverts, or any other methods of communication.
+5. Don't prop minge. This includes prop climb, surf, kill, block, bridge, push, trap or spam.
+6. Don't create offensive or inappropriate text signs.
+7. Don't use an inappropriate RP name.
+8. Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish
+9. Scamming during vendor transactions or any roleplay transactions is not allowed whatsoever.
+10. No CP helping. You must be a government class or a bodyguard hired by the Mayor to assist CP.
+11. If a user has a building sign up, leave them alone. If they need help they will ask. You will be KOS after two warnings.
+12. NLR Rule: There isn't one. Make your alliances well. Avenge yourself. Don't let that annoying raider get your stuff.
+13. Raiding, Must be called in /ooc Please see context menu to advert easier. When Done write, /ooc raid over. Cool down of 15 minutes.
+14. Kidnapping, Must be called in /ooc, See context menu to advert easier. Your kidnappee can not kill theirself. Kidnappee can use Context menu help to seek help from police.
+15. Mugging, must be called in /ooc. Please see context menu to advert easier also. There is no FailRP or FearRP on this.
+16. Overall, use common sense and have fun.
 
 
 - Building Rules
 
-* While building, put up a sign that says "Building" to let others know you are not roleplaying.
-* Do not interfere with people that have a "Building" sign.
-* A player must be able to enter and exit your building using a keypad cracker or a lockpick.
-* Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly)
-* For fading doors, please stay within 4 doors to get in.
-* Keypads must be connected to a working fading door.
-* Keypads must have a hold length of 5 seconds for fading doors. (With a 0 initial delay)
-* Do not create tiny cracks in your base that raiders cannot see.(Headshot and footshot traps)
-* No disorienting advantages such as black rooms, fully invisible props, or world glow effects.
-* Do not store entities on inaccessible rooftops or inaccessible areas in general.
-* Do not build in the road. Cars must be able to get by.
-* Sky bases are not allowed.
+1. While building, put up a sign that says "Building" to let others know you are not roleplaying.
+2. Do not interfere with people that have a "Building" sign.
+3. A player must be able to enter and exit your building using a keypad cracker or a lockpick.
+4. Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly)
+5. For fading doors, please stay within 4 doors to get in.
+6. Keypads must be connected to a working fading door.
+7. Keypads must have a hold length of 5 seconds for fading doors. (With a 0 initial delay)
+8. Do not create tiny cracks in your base that raiders cannot see.(Headshot and footshot traps)
+9. No disorienting advantages such as black rooms, fully invisible props, or world glow effects.
+10. Do not store entities on inaccessible rooftops or inaccessible areas in general.
+11. Do not build in the road. Cars must be able to get by.
+12. Sky bases are not allowed.
